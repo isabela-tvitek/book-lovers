@@ -1,6 +1,10 @@
 # Book Lovers
 Sistema de cadastro de livro preferidos
 
+Wireframes 
+
+https://www.figma.com/file/P3Ii47D7sDhAzZZGopStPd/Book-Lovers?node-id=2%3A2
+
 Encaminhamento e redirecionamento
 
 - [ ] Usar encaminhamento fora do modelo MVC (i.e. um servlet encaminhando a requisição para outro servlet). A dica é dividir um processamento complexo em duas etapas, ou seja, em dois servlets.
