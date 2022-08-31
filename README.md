@@ -1,8 +1,7 @@
 # Book Lovers
-Sistema de cadastro de livro preferidos
+Sistema para cadastro de livros preferidos
 
 Wireframes 
-
 https://www.figma.com/file/P3Ii47D7sDhAzZZGopStPd/Book-Lovers?node-id=2%3A2
 
 Encaminhamento e redirecionamento
