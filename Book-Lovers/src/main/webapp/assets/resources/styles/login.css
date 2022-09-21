@@ -1,0 +1,55 @@
+.box{
+    background: #D6D6D6;
+    padding: 1rem;
+    margin: 2.5rem auto 0;
+    width: 30%;
+    border-radius: 5px;
+    height: 60%;
+}
+
+h2 {
+    color: #3EABCD;
+    font-family:  sans-serif, "Malgun Gothic Semilight";
+    text-align: center;
+}
+
+p{
+    color: #949494;
+}
+
+form{
+    padding: 2rem 0 1rem 0;
+}
+
+input{
+    background: none;
+    border-bottom: 1px solid #007499;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 80%;
+}
+
+.grid-item{
+    margin-left: 3rem;
+}
+
+button{
+    background: #007499;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    float: right;
+    margin: 2rem 11rem 0 0;
+}
+
+a.cadastro{
+    font-family: "Roboto Light";
+    text-decoration: none;
+    color: #3EABCD;
+    font-size: 20px;
+    margin: 0 0 0 8rem;
+}

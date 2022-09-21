@@ -1,0 +1,54 @@
+.box{
+    background: #D6D6D6;
+    padding: 1rem;
+    margin: 2.5rem auto 0;
+    width: 80%;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #3EABCD;
+    font-family:  sans-serif, "Malgun Gothic Semilight";
+}
+
+p{
+    color: #949494;
+}
+
+form{
+    padding: 2rem;
+}
+
+input{
+    background: none;
+    border-bottom: 1px solid #007499;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 70%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto ;
+}
+
+button{
+    background: #007499;
+    color: white;
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    float: right;
+    margin: 0 16rem 0 0;
+}
+
+a{
+    font-family: "Roboto Light";
+    text-decoration: none;
+    color: #3EABCD;
+    font-size: 20px;
+    margin: 0 0 0 2rem;
+}

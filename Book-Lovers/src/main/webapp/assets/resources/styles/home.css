@@ -1,0 +1,49 @@
+h2{
+    font-family:  sans-serif, "Malgun Gothic Semilight";
+    font-size: 30px;
+}
+img.body{
+    width: 35rem;
+}
+
+div.gridContainer {
+    display: grid;
+    width: 100%;
+}
+
+div.gridItem {
+    text-align: center;
+    font-size: 30px;
+}
+
+div #item1 {
+    grid-column: 1 ;
+    grid-row: 1 / span 1;
+}
+
+div #item2 {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+}
+
+div #item3 {
+    grid-column: 1;
+    grid-row: 2 / span 1;
+}
+
+a.cadastro{
+    font-family: "Roboto Light";
+    text-decoration: none;
+    color: #3EABCD;
+    font-size: 20px;
+}
+
+a.login{
+    background: #007499;
+    color: white;
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 16px;
+    text-decoration: none;
+}

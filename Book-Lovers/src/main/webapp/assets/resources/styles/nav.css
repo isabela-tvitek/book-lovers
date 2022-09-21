@@ -1,0 +1,25 @@
+html{
+    background: #F2F2F2;
+}
+
+img.nav{
+    width: 18rem;
+}
+
+div.nav{
+    float: right;
+    width: 50rem;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1{
+    font-family: "Segoe Script";
+    color: #007499;
+}
+
+.container{
+    padding: 2rem;
+    text-align: center;
+}
